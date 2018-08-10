@@ -4,6 +4,10 @@
 
 [これからの強化学習](https://www.amazon.co.jp/dp/4627880316)の1.1節に出てくる多椀バンディット問題のRubyによるサンプル実装です。
 
+Qiitaに解説を書きました。
+
+[多椀バンディット問題のRuby実装@Qiita](https://qiita.com/kaityo256/items/b2c2d009d1e272fafd36)
+
 # 使い方
 
     $ make
